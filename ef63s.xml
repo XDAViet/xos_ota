@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
+    <Stable>
+        <ef63s>
+            <Filename>xOS-1.1-DEVELOPER-BETA-17052016-ef63s.zip</Filename>
+            <RomUrl
+                id="rom"
+                title="Rom"
+                description="Download xOS builds">https://fshare.vn/</RomUrl>
+            <SlimGappsUrl
+            	id="gapps"
+            	title="Gapps"
+            	description="Download latest Open GApps">http://opengapps.org/</SlimGappsUrl>
+	</ef63s>
+    </Stable>
+</SlimOTA>
